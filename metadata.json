@@ -1,0 +1,8 @@
+{
+  "name": "Chronos",
+  "description": "An elegant Day Activity Tracker with real-time session tracking, categories, timeline visualization, and daily metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
